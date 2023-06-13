@@ -20,4 +20,4 @@ Vosk Resmi gitup : https://github.com/alphacep/vosk-api
 Vosk Resmi site  : https://alphacephei.com/vosk
 
 Lütfen kanalıma abone olun kanalımda buna bezer içerikller vardır : https://www.youtube.com/@kadiratmaca1?sub_confirmation=1
-Wep site : bit.ly/KadirAtmaca8
+Wep site : https://bit.ly/KadirAtmaca8
