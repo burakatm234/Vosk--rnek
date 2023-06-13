@@ -1,7 +1,7 @@
 # Vosk Speech Recognition Toolkit  örnekdir
 Vosk Speech Recognition Toolkit ile yapılmış c# form örnektir herkese açıktır.
 
-
+uyarı * exe dosyasının içinde vosk yoktur kendiniz elinle yüklemeniz gerekir.
 Bu c# form uygulamasında yazılmış vosk yani çevrimdışı konuşma tanıma uygulamasıdır.
 
 
